@@ -1,4 +1,4 @@
-Sou um desenvolvedor de software| com experiência em TypeScript, JavaScript e Python| domínio em frameworks como React.
+
 
 <!--
 **Igor-Barret0/Igor-Barret0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
