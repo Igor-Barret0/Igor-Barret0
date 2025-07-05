@@ -1,4 +1,4 @@
-## Hi there 👋
+Sou um desenvolvedor de software qualificado, com experiência em TypeScript, JavaScript e Python, além de domínio em frameworks como React. Aprendo rapidamente e colaboro de perto com os clientes para criar soluções eficientes, escaláveis e fáceis de usar que resolvem problemas do mundo real. Vamos trabalhar juntos para transformar suas ideias em realidade!
 
 <!--
 **Igor-Barret0/Igor-Barret0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
